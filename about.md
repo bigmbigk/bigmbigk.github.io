@@ -7,7 +7,7 @@ title: About
 Senior undergraduate student at POSTECH, double majoring in Convergence IT Engineering, and Computer Science and Engineering.
 # **Activities**
 ### **[SONJU Project][sonju-page]**
-Saving veterans story via Conversational Auto Biography Writing Framework, I built. Collaborated with 경북남부보훈지청. Ranked 3rd place in overall (HW + SW) and 1st place in SW at Convergence IT Design Demo Day.
+Developed a Conversational Auto Biography Writing Framework to preserve veterans' stories. Collaborated with Ministry of Patriots and Veterans Affairs, Gyeongbuk Southern Veterans Affairs Administration (국가보훈부 경북남부보훈지청). Achieved 3rd place overall (HW + SW) and 1st place in SW at Convergence IT Design Demo Day.
 
 ### **Startup**
 Won 2nd place at Startup Incubation Competition for Early Teams(예비창업팀 육성 경진대회: 스트릿창업파이터) as a team leader. Was a founding member of a startup team that won multiple government support projects.
