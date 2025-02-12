@@ -5,10 +5,19 @@ title: About
 (last updated at 2025.2)
 
 Senior undergraduate student at POSTECH, double majoring in Convergence IT Engineering, and Computer Science and Engineering.
+# **Activities**
+### **[SONJU Project][sonju-page]**
+Saving veterans story via Conversational Auto Biography Writing System, I built. Collaborated with 경북남부보훈지청. Ranked 3rd place in overall (HW + SW) and 1st place in SW at Convergence IT Design Demo Day.
+
+### **Startup**
+Won 2nd place at Startup Incubation Competition for Early Teams(예비창업팀 육성 경진대회: 스트릿창업파이터) as a team leader. Was a founding member of a startup team that won multiple government support projects.
+
 # **Experiences**
 
 ### **Intern @ TML Lab, POSTEH**
 *2024.8 – Present*
+
+Conducting research under the guidance of Prof. [Sangdon Park][sangdon-park].
 
 ### **Research & Backend Engineer @ CUPIST**
 *2023.2 - 2024.7*
@@ -23,7 +32,7 @@ Developed a deep learning-based system using to detect and filter inappropriate 
 ### **KATUSA @ ROK Army & US Army**
 *2019.12 – 2021.7*
 
-Served as a KATUSA (Korean Augmentation to the United States Army) at a US Army Combat Engineer Company. Participated in multiple joint filed training exercises with ROK Army providing translation and coordination. Awarded Armed Forces Service Medal (AFSM) for contributions to COVID-19 operations.
+Served as a [KATUSA][katusa] (Korean Augmentation to the United States Army) at a US Army Combat Engineer Company. Participated in multiple joint filed training exercises with ROK Army providing translation and coordination. Awarded Armed Forces Service Medal ([AFSM][afsm]) for contributions to COVID-19 operations.
 
 # **Education**
 
@@ -46,15 +55,14 @@ GPA: 3.76/4.3
 
 ***Fully funded by i-Lab Scholarship.*** RISD IN ROME: ARTISTIC PRACTICE IN PUBLIC SPACE
 
-# **Activities**
-### **SONJU Project**
-(Project page coming soon) Saving veterans story via Conversational Auto Biography Writing System, I built. Collaborated with 경북남부보훈지청. Ranked 3rd place in overall (HW + SW) and 1st place in SW at Convergence IT Design Demo Day.
-
-### **Startup**
-Won 2nd place at Startup Incubation Competition for Early Teams(예비창업팀 육성 경진대회: 스트릿창업파이터) as a team leader. Was a founding member of a startup team that won multiple government support projects.
 
 # **Skills**
 ### Language
 Korean (native), English (TOFEL iBT 99 @ 2018.2)
 ### Programming
 Python, C/C++, Backend programming
+
+[sonju-page]: https://bigmbigk.github.io/conversational-auto-biography-writing-system/
+[sangdon-park]: https://sangdon.github.io/
+[katusa]: https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp
+[afsm]: https://www.defense.gov/News/Releases/Release/Article/2245043/dod-recognition-for-qualifying-covid-19-operations-and-activities/
