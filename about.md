@@ -17,7 +17,7 @@ Won 2nd place at Startup Incubation Competition for Early Teams(예비창업팀 
 ### **Intern @ TML Lab, POSTEH**
 *2024.8 – Present*
 
-Conducting research under the guidance of Prof. [Sangdon Park][sangdon-park].
+Advised by Prof. [Sangdon Park][sangdon-park]. (***Better History, Lower Hallucination***: Dialogue History Curation for Hallucination Control, [poster](assets/pdf/better_history_lower_hallucination_poster.pdf))
 
 ### **Research & Backend Engineer @ CUPIST**
 *2023.2 - 2024.7*
