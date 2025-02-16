@@ -17,17 +17,23 @@ Won 2nd place at Startup Incubation Competition for Early Teams(예비창업팀 
 ### **Intern @ TML Lab, POSTEH**
 *2024.8 – Present*
 
-Advised by Prof. [Sangdon Park][sangdon-park]. (***Better History, Lower Hallucination***: Dialogue History Curation for Hallucination Control, [poster](assets/pdf/better_history_lower_hallucination_poster.pdf))
+Advised by Prof. [Sangdon Park][sangdon-park].
+
+***Better History, Lower Hallucination***: Dialogue History Curation for Hallucination Control, [poster](assets/pdf/better_history_lower_hallucination_poster.pdf)
 
 ### **Research & Backend Engineer @ CUPIST**
 *2023.2 - 2024.7*
 
 Designed, developed, deployed, operated, and managed a chatbot system to build deeper, longer relationships with users. Integrated image, video, and audio generation to enhance user experience and engagement.
 
+*LLMs, TTS&STT models, Diffusion models, HuggingFace libraries, AWS, FastAPI, Docker, k8s, and product & system design.*
+
 ### **Intern @ Samsung Research, AI Methods team**
 *2023.1 – 2023.2*
 
 Developed a deep learning-based system using to detect and filter inappropriate gestures of digital humans on Unreal Engine. Contributed to adapting a motion generation model for digital human.
+
+*Unreal Engine, PyTorch*
 
 ### **KATUSA @ ROK Army & US Army**
 *2019.12 – 2021.7*
